@@ -7,4 +7,6 @@
 ## VS Code
 - GUI로 add, commit, push, pull 하기
 
-## 열심히 작업 중입니다. 😁 으샤! 으샤!
+---
+## hong/sub-page branch 생성했습니다.
+- conflict: 병합할 때, 충돌 연습
